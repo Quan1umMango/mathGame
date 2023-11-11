@@ -9,7 +9,7 @@ Install the [latest Go compiler](https://go.dev/doc/install)
 
 Get the source using the git commands:
 ```
-
+git clone https://github.com/Quan1umMango/mathGame.git
 ```
 
 Navigate to the directory.
